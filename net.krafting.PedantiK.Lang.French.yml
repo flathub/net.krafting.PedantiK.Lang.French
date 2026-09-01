@@ -18,6 +18,8 @@ modules:
         url: https://gitlab.com/Krafting/pedantik
         tag: '1.5.2'
         commit: d20745604a911bf1ca07ab3170635e64a3441907
+        x-checker-data: {type: git, tag-pattern: '^([\d.]+)$'}
+
 
   - name: French_Model_File
     buildsystem: simple
