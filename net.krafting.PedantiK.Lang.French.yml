@@ -16,8 +16,8 @@ modules:
         path: net.krafting.PedantiK.Lang.French.metainfo.xml
       - type: git
         url: https://gitlab.com/Krafting/pedantik
-        tag: '1.5.2'
-        commit: d20745604a911bf1ca07ab3170635e64a3441907
+        tag: 1.6.0
+        commit: 6172ffdcc0907cf9b44b7bb3fb173e01b585f2bb
         x-checker-data: {type: git, tag-pattern: '^([\d.]+)$'}
 
 
